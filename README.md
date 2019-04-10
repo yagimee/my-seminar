@@ -6,9 +6,9 @@
 GitHub Pages機能を使って公開されているページは[こちら](https://llminatoll.github.io/my-seminar/)から閲覧できます。 https://llminatoll.github.io/my-seminar/
 
 # メンバー
-麻央教授
-エルマス
-わかば
+- 魔王教授
+- エルマス
+- わかば
 
 # ディレクトリ構成
 ```
